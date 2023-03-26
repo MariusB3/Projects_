@@ -8,6 +8,4 @@
 
 [Mapty](https://mapty-mb3.netlify.app)
 
-[Guess My Number](https://guess-my-number-mb3.netlify.app)
-
 [Forkify](https://forkify-marius-03.netlify.app)
